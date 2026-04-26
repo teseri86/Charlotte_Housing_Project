@@ -11,7 +11,7 @@ Final Group Project for Data Science Studio 2 (DTSC 2302) — Spring 2026
 ---
  
 ## Background
-Charlotte has experienced rapid growth over the past decade, driving up housing costs and pushing long-term residents — particularly in lower-income and minority communities — out of their neighborhoods. This pattern of displacement does not occur randomly. It is suspected that it follows decades of discriminatory housing policy, most notably the Home Owners' Loan Corporation (HOLC) redlining maps of the 1930s, which systematically denied mortgage access to Black and low-income communities.
+Charlotte has experienced rapid growth over the past decade, driving up housing costs and pushing long-term residents, particularly in lower-income and minority communities, out of their neighborhoods. This pattern of displacement does not occur randomly. It is suspected that it follows decades of discriminatory housing policy, most notably the Home Owners' Loan Corporation (HOLC) redlining maps of the 1930s, which systematically denied mortgage access to Black and low-income communities.
  
 This project uses publicly available neighborhood-level data to quantify the drivers of housing unaffordability and displacement risk across Charlotte's Neighborhood Profile Areas (NPAs). A secondary analysis overlays model predictions onto historical HOLC redlining boundaries to assess whether the legacy of redlining continues to shape housing outcomes today.
  

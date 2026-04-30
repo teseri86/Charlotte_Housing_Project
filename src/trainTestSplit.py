@@ -17,6 +17,26 @@ def get_reg_splits(master_df):
     
     return X_train, X_test, y_train, y_test
 
+def modified_reg_splits(master_df):
+    feature_cols = [
+        "household_income",
+        "home_ownership",
+        "food_nutrition",
+        "new_constructions",
+        "age_of_residents",
+        "transit_proximity",
+        "grocery_proximity"
+    ]
+    
+    X = master_df[feature_cols]
+    y = master_df["housing_cost_burden"]
+    
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=0.25, random_state=42
+    )
+    
+    return X_train, X_test, y_train, y_test
+
 
 def get_class_splits(master_df):
     feature_cols = [c for c in master_df.columns if c not in ["NPA", "housing_cost_burden", "displacement_risk"]]

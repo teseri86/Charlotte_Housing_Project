@@ -99,3 +99,12 @@
   housing_cost_burden (REAL)
   displacement_risk (INTEGER)
   crime_total (REAL)
+
+=== gam_predictions ===
+  NPA (INTEGER)
+  gam_predicted_burden (REAL)
+
+=== xgb_predictions ===
+  NPA (INTEGER)
+  xgb_proba (REAL)
+  xgb_pred (INTEGER)

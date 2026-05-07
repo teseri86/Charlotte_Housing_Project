@@ -1,9 +1,6 @@
 # Redlined and Left Behind: Housing Unaffordability and Displacement Risk in Charlotte, NC
-Final Group Project — Data Science Studio 2 (DTSC 2302), Spring 2026
-
-**Group:** Ayia Boutanassa, Brady Dunn, Bryce Jackson, Eric Testen, Garrison High  
-**Professors:** Ageenko, Schuckers  
-**GitHub Repo:** https://github.com/coffeeNqueries/DTSC2302-Project3
+This was originally a final group project for Data Science Studio 2 (DTSC 2302), Spring 2026 at UNC Charlotte.  
+I created this repository seperately to continue refining the project independent from the group and the University.
 
 ---
 
